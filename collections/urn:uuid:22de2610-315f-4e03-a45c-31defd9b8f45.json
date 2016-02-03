@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Montana Herbarium",
     "collection": "Herbarium",
     "recordsets": "7340c0df-8829-4197-9dc7-0328b8e7f5dd",
@@ -27,4 +26,3 @@
     "lat": 47.116,
     "lon": -114.0498
   }
-]

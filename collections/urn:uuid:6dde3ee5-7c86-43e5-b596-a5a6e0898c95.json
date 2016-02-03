@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of South Florida",
     "collection": "USF Herbarium",
     "recordsets": "0072bf11-a354-4998-8730-c0cb4cfc9517, 1c8ec291-8067-4b48-848b-410c2c768420, 07c47dd3-a0a9-434a-b144-71c32996f278",
@@ -27,4 +26,3 @@
     "lat": 28.0125,
     "lon": -82.4605
   }
-]

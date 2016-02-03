@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Illinois, Illinois Natural History Survey",
     "collection": "Fungarium",
     "recordsets": "ef637c01-c551-4d47-8a48-4442b8ad5ecd, e0e37702-32af-405b-b652-ee54b5bb94e2",
@@ -27,4 +26,3 @@
     "lat": 40.132,
     "lon": -88.2332
   }
-]

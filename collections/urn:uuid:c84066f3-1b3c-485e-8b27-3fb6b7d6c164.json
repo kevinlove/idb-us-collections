@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Fairchild Tropical Botanic Garden Herbarium",
     "collection": "Herbarium",
     "recordsets": "b3f10d7b-6763-4f79-9789-f6abc68b9720, f3a5ec1a-49dd-4a52-8bd8-67cacae7a7ac",
@@ -26,4 +25,3 @@
     "lat": 25.645,
     "lon": -80.2936
   }
-]

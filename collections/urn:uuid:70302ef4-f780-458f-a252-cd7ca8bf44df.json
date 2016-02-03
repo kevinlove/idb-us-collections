@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Desert Botanical Garden Herbarium Collection",
     "collection": "Herbarium",
     "recordsets": "c569e530-7322-40b8-9b66-1e0ed96fefcb",
@@ -26,4 +25,3 @@
     "lat": 33.4509,
     "lon": -111.9558
   }
-]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Valdosta State University",
     "collection": "Herbarium",
     "recordsets": "2bbafa00-3162-4e8e-947c-64a13b8d3fef, 76fd34da-4892-4821-858d-98fe9e28ba8b",
@@ -27,4 +26,3 @@
     "lat": 30.8485,
     "lon": -83.2878
   }
-]

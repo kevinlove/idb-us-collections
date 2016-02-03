@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Michigan State University, Herbarium",
     "collection": "Herbarium",
     "recordsets": "181352ea-3598-4f32-b919-c8f6097f4c65, 1a8eea37-7c72-4032-a38a-254154449ad1, 05c029de-734c-450a-a41a-56061b7ebb18",
@@ -26,4 +25,3 @@
     "lat": 43.3993,
     "lon": -84.6126
   }
-]

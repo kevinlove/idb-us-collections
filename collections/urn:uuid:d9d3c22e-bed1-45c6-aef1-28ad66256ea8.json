@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "State University of New York Binghamton Herbarium",
     "collection": "Herbarium",
     "recordsets": "77b762ba-7cda-4617-97d7-e78df7f6dfab",
@@ -26,4 +25,3 @@
     "lat": 42.0916,
     "lon": -75.9459
   }
-]

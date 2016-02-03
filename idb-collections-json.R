@@ -15,7 +15,7 @@ writeCollections <- function(df = fromJSON("http://internal.idigbio.org/collecti
         pb$tick() 
         fn <- df$collection_uuid[i]
         sink(paste("collections/",fn,".json",sep=""))
-        row <- toJSON(df[i,],pretty = TRUE)
+        row <- toJSON(unbox(df[i,]),pretty = TRUE)
         cat(row)
         sink()
         
@@ -31,7 +31,7 @@ writeMasterFile <- function(){
         for (i in 1:length(list.files("collections/"))){
                 pb$tick()
                 if(i == 1){cat("[")}
-                cat(toJSON(unbox(fromJSON(paste("collections/",list.files("collections/")[i],sep=""))),pretty = TRUE))
+                cat(toJSON(fromJSON(paste("collections/",list.files("collections/")[i],sep="")),pretty = TRUE))
                 if(i < length(list.files("collections/"))){cat(",")}
                 if(i == length(list.files("collections/"))){cat("]")}
          } 

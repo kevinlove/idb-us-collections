@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Field Museum of Natural History",
     "collection": "Fungi & Lichens",
     "recordsets": "10a02814-9469-42fd-b074-22ca6c8271c7, c481fbc6-4bd7-4c50-8537-ba1993d4eb88",
@@ -27,4 +26,3 @@
     "lat": 41.8691,
     "lon": -87.6176
   }
-]

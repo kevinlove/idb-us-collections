@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Indiana University",
     "collection": "Herbarium",
     "recordsets": "2e3a8e5c-eef9-462d-a690-3a91fe111e13, b3d53973-5bac-432a-90d3-7956baa09c5d",
@@ -26,4 +25,3 @@
     "lat": 39.1663,
     "lon": -86.4813
   }
-]

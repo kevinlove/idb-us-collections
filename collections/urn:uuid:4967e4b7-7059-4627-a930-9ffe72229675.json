@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of West Florida, Michael I. Cousens Herbarium",
     "collection": "Herbarium",
     "recordsets": "314f66a9-2b8f-4085-b10c-0f083ce2f1eb, 4dce41dc-2af6-448c-99e1-abfd3a9cc3e5",
@@ -26,4 +25,3 @@
     "lat": 30.543,
     "lon": -87.2181
   }
-]

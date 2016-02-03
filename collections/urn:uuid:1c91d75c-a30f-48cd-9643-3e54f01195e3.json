@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Duke University Herbarium",
     "collection": "Fungi",
     "recordsets": "1eca069b-09e0-406d-9625-cb9c52e1e5cc",
@@ -26,4 +25,3 @@
     "lat": 35.9985,
     "lon": -78.9454
   }
-]

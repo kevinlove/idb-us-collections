@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Colorado Museum of Natural History",
     "collection": "Herpetology",
     "recordsets": "e38af226-7109-4f99-a6f1-9fd3bec5638d",
@@ -27,4 +26,3 @@
     "lat": 40.0373,
     "lon": -105.2821
   }
-]

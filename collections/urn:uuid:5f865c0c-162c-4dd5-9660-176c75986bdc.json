@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "West Virginia University",
     "collection": "Herbarium",
     "recordsets": "9c963109-9898-4953-a351-d5ee36d6115b, ef04e127-bb7d-4bf0-82d3-767d43108f81",
@@ -26,4 +25,3 @@
     "lat": 39.6374,
     "lon": -79.9575
   }
-]

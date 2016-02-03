@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Alaska Museum",
     "collection": "Ichthyology & Aquatics",
     "recordsets": "061dfaff-0c45-459e-ac56-738fe4cbe213, e7bc6545-f14f-4fc4-9902-1aa38040f184, 3617a6a3-d384-48de-948d-2d1e1c54e090",
@@ -26,4 +25,3 @@
     "lat": 64.858,
     "lon": -147.8261
   }
-]

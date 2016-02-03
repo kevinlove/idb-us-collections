@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Colorado Museum of Natural History",
     "collection": "Ichthyology",
     "recordsets": "e6b4d68a-59b5-4b74-a5ce-daadd930d3ca",
@@ -27,4 +26,3 @@
     "lat": 40.0082,
     "lon": -105.2693
   }
-]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Butler University",
     "collection": "Herbarium",
     "recordsets": "be31dfd1-c721-4697-8ee0-f7043c070810",
@@ -26,4 +25,3 @@
     "lat": 39.8394,
     "lon": -86.1689
   }
-]

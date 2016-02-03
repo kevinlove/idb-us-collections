@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Cornell University, Museum of Vertebrates",
     "collection": "Mammals",
     "recordsets": "93341fe7-38f8-4ef2-8dfc-ae550aa522dc",
@@ -27,4 +26,3 @@
     "lat": 42.4793,
     "lon": -76.4505
   }
-]

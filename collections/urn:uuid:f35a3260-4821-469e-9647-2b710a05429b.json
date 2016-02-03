@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Michigan, Museum of Zoology",
     "collection": "Mammals",
     "recordsets": "2d94a3ac-f505-49ec-98e7-3b7dc48344dd",
@@ -26,4 +25,3 @@
     "lat": 42.2779,
     "lon": -83.735
   }
-]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Oregon State University Herbarium",
     "collection": "Herbarium",
     "recordsets": "33fd0737-6207-42cc-bc64-cc637266b476, 37d4d085-d8be-4826-9bc4-c6a36557fa70",
@@ -26,4 +25,3 @@
     "lat": 44.663,
     "lon": -123.1566
   }
-]

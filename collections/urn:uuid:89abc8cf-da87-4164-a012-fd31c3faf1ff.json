@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Boise State University, Snake River Plains Herbarium",
     "collection": "Lichens",
     "recordsets": "063825dc-b8c3-4962-aea4-9994bcc09bc8, 41350373-fc6f-4dd9-b908-27805fff9155",
@@ -26,4 +25,3 @@
     "lat": 43.6015,
     "lon": -116.2023
   }
-]

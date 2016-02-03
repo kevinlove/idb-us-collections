@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Duke University Herbarium",
     "collection": "MAIN",
     "recordsets": "",
@@ -26,4 +25,3 @@
     "lat": 35.9985,
     "lon": -78.9454
   }
-]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Ohio State University, Museum of Biological Diversity",
     "collection": "Herbarium",
     "recordsets": "6b565194-9707-42da-8052-9f9cf5f9aa60, ce02a047-625d-4017-aeef-2c34e53824c8",
@@ -26,4 +25,3 @@
     "lat": 39.9871,
     "lon": -83.0428
   }
-]

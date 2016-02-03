@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Duke University Herbarium",
     "collection": "Lichens",
     "recordsets": "d29b9265-07e6-4e73-8f72-fc42d3d83fb1",
@@ -26,4 +25,3 @@
     "lat": 35.9985,
     "lon": -78.9454
   }
-]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "New York State Museum",
     "collection": "Ornithology Collection",
     "recordsets": "a8f0fbaf-68b3-4e73-83d7-24d238ac966d",
@@ -27,4 +26,3 @@
     "lat": 42.6455,
     "lon": -73.7536
   }
-]

@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Wyoming, Rocky Mountain Herbarium",
     "collection": "Herbarium",
     "recordsets": "4cdf5c2f-1a44-4fd5-bdd8-de08c8a660e2, 5ab5f23d-292e-4bea-ba06-12db0f8a8c86",
@@ -26,4 +25,3 @@
     "lat": 41.3127,
     "lon": -105.5646
   }
-]

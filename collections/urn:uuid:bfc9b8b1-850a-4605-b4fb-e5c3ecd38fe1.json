@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Michigan",
     "collection": "Herbarium",
     "recordsets": "0e0e9bbc-1dea-4de4-95ae-aecc90844bbf, 3feab0ae-cfc3-40fb-b681-018c410f1996, ab820732-0844-4323-ba14-c58c24f3fc7e, 1e6c8187-1521-4501-b205-ac8f513d5e04",
@@ -26,4 +25,3 @@
     "lat": 42.2331,
     "lon": -83.7259
   }
-]

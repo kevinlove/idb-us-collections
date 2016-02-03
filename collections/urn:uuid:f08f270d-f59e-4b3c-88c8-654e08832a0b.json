@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "Yale University, Peabody Museum of Natural History",
     "collection": "Botany",
     "recordsets": "6cab4420-11e4-4b55-85ac-6ecfdda70184, 7a8d946d-083f-4d2a-9cc9-cd590398194f, e1b03497-7632-4ba4-a9e0-dd230d06638c, 1527b668-b797-42be-94d3-0058e1393e94",
@@ -26,4 +25,3 @@
     "lat": 41.3167,
     "lon": -72.9204
   }
-]

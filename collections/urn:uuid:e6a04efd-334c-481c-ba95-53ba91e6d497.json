@@ -1,5 +1,4 @@
-[
-  {
+{
     "institution": "University of Colorado Museum of Natural History",
     "collection": "Ornithology",
     "recordsets": "e2c129bc-e45b-43d1-ab52-86e52093080b, 50b4c365-5472-4fe8-8825-b1fa0ac57fb3",
@@ -27,4 +26,3 @@
     "lat": 40.0373,
     "lon": -105.2821
   }
-]
