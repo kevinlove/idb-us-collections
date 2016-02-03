@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Oklahoma, Sam Noble Oklahoma State Museum of Natural History",
     "collection": "Ichthyology",
     "recordsets": "78ee1a12-9e8a-4d9c-84de-e2dfce4e1447",
@@ -25,3 +26,4 @@
     "lat": 35.1967,
     "lon": -97.4501
   }
+]

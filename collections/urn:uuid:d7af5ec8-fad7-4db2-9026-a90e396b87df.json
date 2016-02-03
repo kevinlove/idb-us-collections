@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "American Museum of Natural History",
     "collection": "Paleontology, fossil Invertebrates",
     "recordsets": "4f418fcd-01d8-4162-8130-fa911e795949",
@@ -25,3 +26,4 @@
     "lat": 40.7866,
     "lon": -73.9684
   }
+]

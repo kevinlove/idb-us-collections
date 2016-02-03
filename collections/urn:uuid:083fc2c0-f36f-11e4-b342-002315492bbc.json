@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Muhlenberg College, Acopian Center for Ornithology",
     "collection": "Ornithology",
     "recordsets": "",
@@ -26,3 +27,4 @@
     "lat": 40.5883,
     "lon": -75.5394
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "California Academy of Sciences",
     "collection": "Botany",
     "recordsets": "1ffce054-8e3e-4209-9ff4-c26fa6c24c2f, 8dc14464-57b3-423e-8cb0-950ab8f36b6f, 26f7cbde-fbcb-4500-80a9-a99daa0ead9d",
@@ -26,3 +27,4 @@
     "lat": 37.7848,
     "lon": -122.464
   }
+]

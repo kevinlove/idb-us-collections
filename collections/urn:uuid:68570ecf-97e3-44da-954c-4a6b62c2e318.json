@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Tall Timbers Research Station",
     "collection": "Mammals",
     "recordsets": "d78c4f23-f6c4-42cd-8ddf-d5a98c351545",
@@ -25,3 +26,4 @@
     "lat": 30.669,
     "lon": -84.2488
   }
+]

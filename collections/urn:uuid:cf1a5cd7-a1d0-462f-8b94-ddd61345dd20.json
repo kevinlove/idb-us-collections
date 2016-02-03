@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "North Carolina Museum of Natural Sciences",
     "collection": "Herpetology",
     "recordsets": "1bb2a80e-271f-46a8-bbfc-ba56d3e6292a",
@@ -25,3 +26,4 @@
     "lat": 35.7826,
     "lon": -78.6389
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Cincinnati",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 39.2344,
     "lon": -84.4665
   }
+]

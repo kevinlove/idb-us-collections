@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of California Santa Barbara, Cheadle Center for Biodiversity and Ecological Restoration",
     "collection": "Ornithology",
     "recordsets": "191206d2-a389-471c-9f9d-c0b8b00c35f8",
@@ -26,3 +27,4 @@
     "lat": 34.4453,
     "lon": -119.8034
   }
+]

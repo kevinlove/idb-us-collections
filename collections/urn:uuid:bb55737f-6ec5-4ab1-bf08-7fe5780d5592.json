@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Roanoke College",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 37.2881,
     "lon": -80.0678
   }
+]

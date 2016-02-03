@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Swarthmore College",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 39.8972,
     "lon": -75.3441
   }
+]

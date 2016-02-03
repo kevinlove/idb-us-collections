@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Tennessee Herbarium",
     "collection": "Vascular Plants",
     "recordsets": "bdf65f9c-a730-4083-bd8d-a2def3037637",
@@ -25,3 +26,4 @@
     "lat": 35.9521,
     "lon": -83.933
   }
+]

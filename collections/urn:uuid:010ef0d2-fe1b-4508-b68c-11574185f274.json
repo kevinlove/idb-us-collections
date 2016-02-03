@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Purdue University, The Ralph M. Kriebel Herbarium",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 40.4249,
     "lon": -86.9162
   }
+]

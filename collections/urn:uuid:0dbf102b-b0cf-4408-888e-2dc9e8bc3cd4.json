@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "East Tennessee State University",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 36.3014,
     "lon": -82.3712
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Longwood University",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 37.3016,
     "lon": -78.3942
   }
+]

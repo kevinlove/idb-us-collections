@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
     "collection": "Parasitology",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 38.9574,
     "lon": -95.2459
   }
+]

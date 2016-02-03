@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Cornell University, Museum of Vertebrates",
     "collection": "Fishes",
     "recordsets": "4fecde59-9f59-44eb-ab6f-4a50b4ed85cf",
@@ -25,3 +26,4 @@
     "lat": 42.4793,
     "lon": -76.4505
   }
+]

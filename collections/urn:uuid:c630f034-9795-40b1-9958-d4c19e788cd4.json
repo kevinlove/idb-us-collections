@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Western State College",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 38.5412,
     "lon": -106.9215
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Texas Tech University, Museum, Natural Science Research Laboratory",
     "collection": "Bird Collection",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 33.61,
     "lon": -101.8213
   }
+]

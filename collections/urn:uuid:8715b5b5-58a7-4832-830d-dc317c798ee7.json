@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Mills College",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 37.8221,
     "lon": -122.2552
   }
+]

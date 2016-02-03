@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "National Tropical Botanical Garden",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 21.9265,
     "lon": -159.5082
   }
+]

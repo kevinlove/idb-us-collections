@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Miami University, Willard Sherman Turrell Herbarium",
     "collection": "Herbarium",
     "recordsets": "e5b0c46a-5eb6-4b94-9d4c-fb1000f534b0",
@@ -26,3 +27,4 @@
     "lat": 39.5062,
     "lon": -84.7536
   }
+]

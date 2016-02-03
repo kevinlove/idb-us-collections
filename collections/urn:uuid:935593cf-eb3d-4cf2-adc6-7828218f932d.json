@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "New Mexico State University, Collection of Arthropods",
     "collection": "Arthropods",
     "recordsets": "ff111763-e72d-4f24-8914-b5b2dd94908c",
@@ -25,3 +26,4 @@
     "lat": 32.7751,
     "lon": -108.2833
   }
+]

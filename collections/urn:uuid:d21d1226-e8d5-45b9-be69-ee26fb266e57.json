@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Central Oklahoma Natural History Museum",
     "collection": "Fungi/Lichens",
     "recordsets": "79be41bc-8142-485a-9d57-d6195f9a7c81",
@@ -25,3 +26,4 @@
     "lat": 35.7034,
     "lon": -97.4341
   }
+]

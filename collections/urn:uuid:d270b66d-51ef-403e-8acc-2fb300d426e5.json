@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Vermont",
     "collection": "The Pringle Herbarium",
     "recordsets": "f33e9494-7b3c-4ac6-a735-59693b5a9638, fd14095c-3658-4e00-8cec-729a89459e92, 401fec56-515d-4fa8-87d1-507e742f4f6f",
@@ -25,3 +26,4 @@
     "lat": 44.4805,
     "lon": -73.1996
   }
+]

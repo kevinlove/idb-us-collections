@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Arizona State University",
     "collection": "Lichen Herbarium",
     "recordsets": "7c927849-94ed-4034-90e9-af34ac0cb47c",
@@ -25,3 +26,4 @@
     "lat": 33.4285,
     "lon": -111.9349
   }
+]

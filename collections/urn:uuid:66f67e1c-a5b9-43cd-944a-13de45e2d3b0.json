@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Anza-Borrego Desert State Park",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 33.1445,
     "lon": -116.1342
   }
+]

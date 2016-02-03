@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Arkansas Tech University",
     "collection": "Herbarium",
     "recordsets": "85e930bf-6e90-4700-85d1-4c3330efbafb",
@@ -25,3 +26,4 @@
     "lat": 35.305,
     "lon": -93.0986
   }
+]

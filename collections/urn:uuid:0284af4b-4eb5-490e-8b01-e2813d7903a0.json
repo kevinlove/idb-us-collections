@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Oregon State University, Department of Fisheries Wildlife's Birds, Mammals, and Fishes Collections",
     "collection": "Birds",
     "recordsets": "",
@@ -26,3 +27,4 @@
     "lat": 44.538,
     "lon": -123.3014
   }
+]

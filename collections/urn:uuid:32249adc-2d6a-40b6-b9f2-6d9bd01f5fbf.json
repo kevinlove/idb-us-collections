@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "National Museum of Natural History, Smithsonian Institution",
     "collection": "Mineral Sciences: National Gem & Mineral Collection, National Meteorite Collection, and National Rock and Ore Collection",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 38.8921,
     "lon": -77.0449
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Buffalo Museum of Science",
     "collection": "Mycology",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 42.908,
     "lon": -78.8431
   }
+]

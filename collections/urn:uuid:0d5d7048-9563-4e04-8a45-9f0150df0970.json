@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "North Carolina Museum of Natural Sciences",
     "collection": "Vertebrate Paleontology",
     "recordsets": "81316846-80cb-4913-8941-b31537761eb0, 1c8d18f4-5af2-4d86-98d2-8a5ed06456e2, 7c2c5cdc-80e6-49d5-8e95-08fc7da0a370",
@@ -25,3 +26,4 @@
     "lat": 35.7826,
     "lon": -78.6389
   }
+]

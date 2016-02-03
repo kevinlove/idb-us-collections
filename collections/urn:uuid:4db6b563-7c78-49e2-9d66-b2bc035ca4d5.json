@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
     "collection": "Herpetology",
     "recordsets": "c4bb08d4-c310-4879-abee-1b3986e8e0ca",
@@ -25,3 +26,4 @@
     "lat": 38.9574,
     "lon": -95.2459
   }
+]

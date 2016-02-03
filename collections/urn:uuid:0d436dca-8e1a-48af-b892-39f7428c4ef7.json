@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Kansas Wesleyan University",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 38.8237,
     "lon": -97.6421
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Pennsylvania State University",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 40.8448,
     "lon": -77.6808
   }
+]

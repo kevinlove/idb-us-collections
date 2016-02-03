@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Texas A&M University, Biodiversity Research and Teaching Collections",
     "collection": "MAIN",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 30.1484,
     "lon": -96.3107
   }
+]

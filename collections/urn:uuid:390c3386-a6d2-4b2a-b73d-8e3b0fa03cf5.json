@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Arizona State Museum",
     "collection": "",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 32.2318,
     "lon": -110.9566
   }
+]

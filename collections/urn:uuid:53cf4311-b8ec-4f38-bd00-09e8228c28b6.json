@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Maine Herbarium",
     "collection": "Mosses",
     "recordsets": "b62cf6c0-e046-4c3f-9765-d0e046072b0f",
@@ -25,3 +26,4 @@
     "lat": 44.806,
     "lon": -68.7919
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Arizona State University",
     "collection": "Frank F. Hasbrouck Insect Collection",
     "recordsets": "ab4b6a2b-a90a-44ce-95a1-2c44c911fcc6",
@@ -25,3 +26,4 @@
     "lat": 33.4285,
     "lon": -111.9349
   }
+]

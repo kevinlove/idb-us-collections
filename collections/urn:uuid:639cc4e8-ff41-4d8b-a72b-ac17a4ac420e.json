@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Wilmington College",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 39.4432,
     "lon": -83.8195
   }
+]

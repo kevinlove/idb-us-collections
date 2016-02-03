@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Harvard University, Museum of Comparative Zoology",
     "collection": "Herpetology",
     "recordsets": "271a9ce9-c6d3-4b63-a722-cb0adc48863f",
@@ -25,3 +26,4 @@
     "lat": 42.3784,
     "lon": -71.1164
   }
+]

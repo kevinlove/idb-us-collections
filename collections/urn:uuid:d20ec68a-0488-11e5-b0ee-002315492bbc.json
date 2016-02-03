@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Boston University",
     "collection": "",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 42.3483,
     "lon": -71.1007
   }
+]

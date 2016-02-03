@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Louisiana at Lafayette",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 30.2157,
     "lon": -92.0233
   }
+]

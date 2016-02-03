@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "California State University, Fullerton",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 33.8778,
     "lon": -117.8897
   }
+]

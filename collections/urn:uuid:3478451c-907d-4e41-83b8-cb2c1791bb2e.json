@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Kansas, Biodiversity Institute and Natural History Museum",
     "collection": "Mammalogy",
     "recordsets": "fb4a4330-9124-4013-a0e1-af42ee20cd16",
@@ -25,3 +26,4 @@
     "lat": 38.9574,
     "lon": -95.2459
   }
+]

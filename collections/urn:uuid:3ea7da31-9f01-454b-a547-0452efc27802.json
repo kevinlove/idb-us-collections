@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Alaska SE",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 58.3736,
     "lon": -134.5239
   }
+]

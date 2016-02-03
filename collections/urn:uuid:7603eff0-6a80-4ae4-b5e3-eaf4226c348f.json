@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Tennessee Herbarium",
     "collection": "Fungi",
     "recordsets": "04d9b721-259c-4d6b-b48f-2e23edf66c9f, e881a3e2-f7ba-43c8-ae9a-11fcbfd741bb",
@@ -26,3 +27,4 @@
     "lat": 36.1041,
     "lon": -83.9406
   }
+]

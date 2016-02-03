@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Auburn University Museum of Natural History",
     "collection": "Fishes",
     "recordsets": "cab6d230-499b-4a21-9cc2-2750e14e92f8",
@@ -25,3 +26,4 @@
     "lat": 32.3016,
     "lon": -85.1757
   }
+]

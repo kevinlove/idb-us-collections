@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "North Carolina Museum of Natural Sciences",
     "collection": "Birds",
     "recordsets": "4438ad00-6ba8-4900-8793-3b5c182150b4",
@@ -26,3 +27,4 @@
     "lat": 35.7826,
     "lon": -78.6389
   }
+]

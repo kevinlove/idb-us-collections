@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Delaware Museum of Natural History",
     "collection": "Egg",
     "recordsets": "66fc2613-3189-42ed-b230-ed772e8ff748",
@@ -26,3 +27,4 @@
     "lat": 39.7651,
     "lon": -75.5821
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Colorado Museum of Natural History",
     "collection": "Botany",
     "recordsets": "7809d96b-7edf-4ef7-9f12-59967e9a01a6, 995cc7f1-69c3-4317-ab77-28fd48f1e535",
@@ -25,3 +26,4 @@
     "lat": 40.0373,
     "lon": -105.2821
   }
+]

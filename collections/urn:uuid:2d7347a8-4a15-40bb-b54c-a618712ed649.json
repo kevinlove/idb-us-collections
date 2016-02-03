@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "North Carolina A & T State University",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 36.0728,
     "lon": -79.7711
   }
+]

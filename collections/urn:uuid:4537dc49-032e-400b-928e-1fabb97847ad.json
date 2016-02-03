@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "University of Minnesota, James Ford Bell Museum of Natural History",
     "collection": "Fishes",
     "recordsets": "",
@@ -26,3 +27,4 @@
     "lat": 44.9859,
     "lon": -93.1852
   }
+]

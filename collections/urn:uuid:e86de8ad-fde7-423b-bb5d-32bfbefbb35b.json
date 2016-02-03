@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Carnegie Museum of Natural History",
     "collection": "Vertebrate Paleontology",
     "recordsets": "71b8ffab-444e-43f9-9a9c-5c42b0eaa5eb",
@@ -25,3 +26,4 @@
     "lat": 40.4441,
     "lon": -79.9505
   }
+]

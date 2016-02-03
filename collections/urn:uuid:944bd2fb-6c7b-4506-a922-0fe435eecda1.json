@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Northwest Missouri State University",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 40.3989,
     "lon": -94.9672
   }
+]

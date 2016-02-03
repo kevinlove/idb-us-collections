@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "College of Idaho, Harold M. Tucker Herbarium",
     "collection": "Herbarium",
     "recordsets": "",
@@ -25,3 +26,4 @@
     "lat": 43.6642,
     "lon": -116.7007
   }
+]

@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Florida Museum of Natural History",
     "collection": "Mammalogy",
     "recordsets": "48e1b8c1-91aa-4b87-8ca0-de1f81232eaf",
@@ -26,3 +27,4 @@
     "lat": 29.6449,
     "lon": -82.3446
   }
+]

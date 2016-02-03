@@ -1,4 +1,5 @@
-{
+[
+  {
     "institution": "Angelo State University, Angelo State Natural History Collections",
     "collection": "Herpetology",
     "recordsets": "",
@@ -26,3 +27,4 @@
     "lat": 31.8854,
     "lon": -100.2922
   }
+]
