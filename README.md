@@ -1,5 +1,8 @@
 # idb-us-collections
 
+idb-collections-json.R to pull current list of US collections via iDigBio API and generate JSON files and CSV 
+
+
 Collections should each have their own JSON file, named by their collection UUID, and be formatted similar to this:
 
 ```json
