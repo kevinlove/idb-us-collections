@@ -9,13 +9,14 @@ write.csv(df, file = "master.csv")
 
 ## Function to write JSON files for each item returned by the API
 ## df: Data frame built from iDigBio API using jsonlit::fromJSON method
+## Per suggestions, file names will be strict UUID
 writeCollections <- function(df = fromJSON("http://internal.idigbio.org/collections")){
         pb <- progress_bar$new(total=nrow(df))
  for (i in 1:nrow(df)){
         pb$tick() 
         fn <- df$collection_uuid[i]
-        sink(paste("collections/",fn,".json",sep=""))
-        row <- toJSON(df[i,],pretty = TRUE)
+        sink(paste("collections/",substr(fn,10,nchar(fn)),sep=""))
+        row <- toJSON(unbox(df[i,]),pretty = TRUE)
         cat(row)
         sink()
         
@@ -31,7 +32,7 @@ writeMasterFile <- function(){
         for (i in 1:length(list.files("collections/"))){
                 pb$tick()
                 if(i == 1){cat("[")}
-                cat(toJSON(unbox(fromJSON(paste("collections/",list.files("collections/")[i],sep=""))),pretty = TRUE))
+                cat(toJSON(fromJSON(paste("collections/",list.files("collections/")[i],sep="")),auto_unbox = TRUE,pretty = TRUE))
                 if(i < length(list.files("collections/"))){cat(",")}
                 if(i == length(list.files("collections/"))){cat("]")}
          } 
