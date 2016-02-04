@@ -37,6 +37,8 @@ Collections should each have their own JSON file, named by their collection UUID
 ]
 ```
 
+
+
 ## Metadata
 
 - In general, institution and collection names should be spelled in full including the first/middle names of the people which the collections are named after. This is intended to facilitate full name search and avoid ambiguities, e.g.:
@@ -70,3 +72,38 @@ If the institution itself is just an herbarium, it should be listed as Herbarium
 - ```mailingZipCode:``` to avoid conversion issue between spreadsheet formats, zip codes starting with a 0 have -0000 at the end: e.g., 02138-0000 for the MCZ
 - ```latitude:``` decimal latitude for the collection, should only be added for collection addresses that fail the geolocation lookup with the API
 - ```longitude:```  decimal longitude for the collection, should only be added for collection addresses that fail the geolocation lookup with the API
+
+
+## Stub records
+
+Stub records can be generated using the function ```r createCollStub``` . A stub record will be generated and added to a directory called "stubs". These stub records will have UUID's and can be moved to the "collections" directory once they have been updated or are complete.
+
+```json
+{
+  "institution": "",
+  "collection": "",
+  "recordsets": "",
+  "institution_code": "",
+  "collection_code": "",
+  "collection_uuid": "",
+  "collection_lsid": "",
+  "collection_url": "",
+  "collection_catalog_url": "",
+  "contact": "",
+  "contact_role": "",
+  "contact_email": "",
+  "taxonomic_coverage": "",
+  "geographic_range": "",
+  "mailing_address": "",
+  "mailing_city": "",
+  "mailing_state": "",
+  "mailing_zip": "",
+  "physical_address": "",
+  "physical_city": "",
+  "physical_state": "",
+  "physical_zip": "",
+  "update_url": "",
+  "lat": 0,
+  "lon": 0
+}
+```
