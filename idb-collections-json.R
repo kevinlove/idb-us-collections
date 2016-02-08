@@ -5,7 +5,7 @@ dir.create("collections",showWarnings = FALSE)
 ## Build data frame from iDigBio collections API
 df <- fromJSON("http://internal.idigbio.org/collections")
 ## Write a CSV, cause why not?
-write.csv(df, file = "master.csv")
+##write.csv(df, file = "master.csv")
 
 ## Function to write JSON files for each item returned by the API
 ## df: Data frame built from iDigBio API using jsonlit::fromJSON method
@@ -22,7 +22,7 @@ writeCollections <- function(df = fromJSON("http://internal.idigbio.org/collecti
         
  }
 }
-writeCollections()
+##writeCollections()
 
 
 ## Function to compile collection JSON files into one validated file
@@ -38,7 +38,7 @@ writeMasterFile <- function(){
          } 
         sink()
 }
-writeMasterFile()
+##writeMasterFile()
 
 ## Function to create stub collection files
 ## collection: Can be used to stub in a collection name
@@ -58,4 +58,4 @@ createCollStub <- function(collection=""){
         cat(toJSON(stub,pretty = TRUE,auto_unbox = TRUE))
         sink()
         }
-createCollStub()
+##createCollStub()
