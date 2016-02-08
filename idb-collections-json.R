@@ -16,7 +16,7 @@ writeCollections <- function(df = fromJSON("http://internal.idigbio.org/collecti
         pb$tick() 
         fn <- df$collection_uuid[i]
         sink(paste("collections/",substr(fn,10,nchar(fn)),sep=""))
-        row <- toJSON(unbox(df[i,]),pretty = TRUE)
+        row <- toJSON(unbox(df[i,]),pretty = TRUE, na = "string")
         cat(row)
         sink()
         
