@@ -94,6 +94,7 @@ Stub records can be generated using the function ```r createCollStub``` . A stub
   "contact_email": "",
   "taxonomic_coverage": "",
   "geographic_range": "",
+  "collection_size": "",
   "mailing_address": "",
   "mailing_city": "",
   "mailing_state": "",
