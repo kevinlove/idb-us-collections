@@ -1,6 +1,4 @@
 ## Test structure of collection JSON files
-setwd("..")
-getwd()
 context("test attributes")
 test_that("check JSON file attributes against stub", {
         stub <- jsonlite::fromJSON("stub.json")
