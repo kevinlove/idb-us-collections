@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kevinlove/idb-us-collections.svg?branch=master)](https://travis-ci.org/kevinlove/idb-us-collections)
+
 # idb-us-collections
 
 idb-collections-json.R to pull current list of US collections via iDigBio API and generate JSON files and CSV 
